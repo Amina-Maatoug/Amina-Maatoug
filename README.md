@@ -104,6 +104,11 @@
   </picture>
 </p>
 
+<br>
+<blockquote align="center">
+  <i>"In God we trust. All others must bring data." – W. Edwards Deming</i>
+</blockquote>
+
 <!-- Visitor badge at bottom -->
 <br>
 <div align="center">
