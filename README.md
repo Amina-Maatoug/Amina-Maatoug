@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Amina+Maatoug;Engineering+Student+from+Tunisia;Building+cool+stuff+with+code+%26+passion!;Welcome+to+my+GitHub+universe!+%F0%9F%8C%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Amina+Maatoug;Engineering+Student+from+Tunisia;Building+cool+stuff+with+code+%26+passion!;Welcome+to+my+GitHub+universe!+%F0%9F%8C%8C" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Data-curious engineering student • Turning raw numbers into insights, one notebook at a time ✨</h3>
@@ -72,22 +72,20 @@
 <!-- Socials - centered and bigger -->
 <h3 align="center">🌐 Connect with me</h3>
 <div align="center">
-  <a href="YOUR_YOUTUBE_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="youtube" />
-  </a>
-  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
+  <a href="https://www.facebook.com/Amina.Maatoug.22/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40" alt="facebook" />
+</a>
+  <a href="https://www.instagram.com/amina__maatoug/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="instagram" />
   </a>
-  <a href="YOUR_TWITCH_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="40" alt="twitch" />
-  </a>
-  <a href="YOUR_DISCORD_LINK_or_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="discord" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="https://www.kaggle.com/aminamaatoug" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40" alt="kaggle" />
+</a>
+
+  <a href="mailto:aminamaatoug.contact@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/amina-maatoug/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin" />
   </a>
 </div>
@@ -104,13 +102,27 @@
   </picture>
 </p>
 
+<br>
+<blockquote align="center">
+  <i>"In God we trust. All others must bring data." – W. Edwards Deming</i>
+</blockquote>
+<br>
+
+<h3 align="center">📌 Featured Data Projects</h3>
+
+<div align="center">
+
+<a href="https://github.com/Amina-Maatoug/Insurance-Claims-Prediction">
+  <img src="https://img.shields.io/badge/Insurance_Claims_Prediction-00FFAA?style=for-the-badge&logo=python&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://github.com/Amina-Maatoug/Sentiment-Analysis-Transformer-">
+  <img src="https://img.shields.io/badge/Sentiment_Analysis_Transformer-FF00FF?style=for-the-badge&logo=pytorch&logoColor=white" />
+</a>
+
+</div>
 <!-- Visitor badge at bottom -->
 <br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Amina-Maatoug.Amina-Maatoug&right_color=brightgreen&left_text=Visitors" alt="visitor badge" />
 </div>
-
-<br>
-<blockquote align="center">
-  <i>"In God we trust. All others must bring data." – W. Edwards Deming</i>
-</blockquote>
