@@ -104,13 +104,13 @@
   </picture>
 </p>
 
-<br>
-<blockquote align="center">
-  <i>"In God we trust. All others must bring data." – W. Edwards Deming</i>
-</blockquote>
-
 <!-- Visitor badge at bottom -->
 <br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Amina-Maatoug.Amina-Maatoug&right_color=brightgreen&left_text=Visitors" alt="visitor badge" />
 </div>
+
+<br>
+<blockquote align="center">
+  <i>"In God we trust. All others must bring data." – W. Edwards Deming</i>
+</blockquote>
