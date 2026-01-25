@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Amina+Maatoug;Engineering+Student+from+Tunisia;Building+cool+stuff+with+code+%26+passion!;Welcome+to+my+GitHub+universe!+%F0%9F%8C%8C" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">An aspiring full-stack / ML enthusiast turning ideas into reality 🚀</h3>
+<h3 align="center">Data-curious engineering student • Turning raw numbers into insights, one notebook at a time ✨</h3>
 
 <br>
 
