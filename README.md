@@ -6,12 +6,16 @@
 
 <br>
 
-<div align="center">
-  <!-- Streak + Top Langs side by side -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amina-Maatoug&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%20Y%5D&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" alt="Streak Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amina-Maatoug&locale=en&hide_title=true&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=true&hide_progress=true" height="180" alt="top languages" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Amina-Maatoug&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%20Y%5D&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" alt="Contribution Streak" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amina-Maatoug&locale=en&hide_title=true&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=true&hide_progress=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
