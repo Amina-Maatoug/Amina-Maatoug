@@ -106,21 +106,7 @@
 <blockquote align="center">
   <i>"In God we trust. All others must bring data." – W. Edwards Deming</i>
 </blockquote>
-<br>
 
-<h3 align="center">📌 Featured Data Projects</h3>
-
-<div align="center">
-
-<a href="https://github.com/Amina-Maatoug/Insurance-Claims-Prediction">
-  <img src="https://img.shields.io/badge/Insurance_Claims_Prediction-00FFAA?style=for-the-badge&logo=python&logoColor=black" />
-</a>
-&nbsp;
-<a href="https://github.com/Amina-Maatoug/Sentiment-Analysis-Transformer-">
-  <img src="https://img.shields.io/badge/Sentiment_Analysis_Transformer-FF00FF?style=for-the-badge&logo=pytorch&logoColor=white" />
-</a>
-
-</div>
 <!-- Visitor badge at bottom -->
 <br>
 <div align="center">
