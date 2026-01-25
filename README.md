@@ -15,6 +15,12 @@
 
 <br>
 
+<h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amina-Maatoug&theme=dracula&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<br>
 <!-- Fun floating GIF on the right (kept your anime-style one) -->
 <img align="right" height="220" src="https://media1.tenor.com/m/Cjw0fXX7LwwAAAAC/kushima-kamome.gif" alt="floating gif" />
 
