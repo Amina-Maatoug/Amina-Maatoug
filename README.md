@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Amina-Maatoug&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%20Y%5D&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" alt="Contribution Streak" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=Amina-Maatoug&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%20Y%5D&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" alt="Contribution Streak" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amina-Maatoug&locale=en&hide_title=true&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=true&hide_progress=true" alt="Top Languages" />
@@ -25,10 +25,14 @@
 </div>
 
 <br><br>
-<!-- Fun floating GIF on the right (kept your anime-style one) -->
-<img align="right" height="220" src="https://media1.tenor.com/m/Cjw0fXX7LwwAAAAC/kushima-kamome.gif" alt="floating gif" />
+<!-- Fun floating GIF on the right-->
+<img align="right" 
+     width="220" 
+     style="max-width: 35%; height: auto;" 
+     src="https://media1.tenor.com/m/Cjw0fXX7LwwAAAAC/kushima-kamome.gif" 
+     alt="floating anime girl" />
 
-<!-- Skills - grouped and cleaned -->
+<!-- Skills - grouped-->
 <h3 align="left">🛠️ Technologies & Tools</h3>
 
 <div align="left">
@@ -81,7 +85,23 @@
 
 <br clear="both"/>
 
-<!-- Socials - centered and bigger -->
+<!-- Pac-Man contribution  -->
+<h3 align="center">🎮 Pac-Man eats my contributions!</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amina-Maatoug/Amina-Maatoug/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amina-Maatoug/Amina-Maatoug/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Amina-Maatoug/Amina-Maatoug/output/pacman-contribution-graph.svg" width="800"/>
+  </picture>
+</p>
+
+<br>
+<blockquote align="center">
+  <i>"In God we trust. All others must bring data." – W. Edwards Deming</i>
+</blockquote>
+<br>
+
+<!-- Socials - centered  -->
 <h3 align="center">🌐 Connect with me</h3>
 <div align="center">
   <a href="https://www.facebook.com/Amina.Maatoug.22/" target="_blank">
@@ -102,24 +122,8 @@
   </a>
 </div>
 
-<br>
 
-<!-- Pac-Man contribution - adaptive dark/light (already perfect) -->
-<h3 align="center">🎮 Pac-Man eats my contributions!</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amina-Maatoug/Amina-Maatoug/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amina-Maatoug/Amina-Maatoug/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Amina-Maatoug/Amina-Maatoug/output/pacman-contribution-graph.svg" width="800"/>
-  </picture>
-</p>
-
-<br>
-<blockquote align="center">
-  <i>"In God we trust. All others must bring data." – W. Edwards Deming</i>
-</blockquote>
-
-<!-- Visitor badge at bottom -->
+<!-- Visitor badge-->
 <br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Amina-Maatoug.Amina-Maatoug&right_color=brightgreen&left_text=Visitors" alt="visitor badge" />
